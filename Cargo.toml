@@ -1,6 +1,6 @@
 [package]
 name = "telegram-send"
-version = "0.0.1"
+version = "1.0.0"
 authors = ["luxagen <hello@luxagen.com>"]
 homepage = "http://www.luxagen.com/product/telegram-send"
 license = "AGPL-3.0-only"
