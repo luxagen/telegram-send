@@ -12,6 +12,8 @@ path = "src/main.rs"
 
 [profile.release]
 lto = true
+split-debuginfo = "packed"
+strip = "none"
 
 [dependencies]
 clap = { version = "4.3.11", features = ["cargo", "derive"] }
